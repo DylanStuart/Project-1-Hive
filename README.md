@@ -2,9 +2,13 @@
 
 Problem Scenario 1 
 What is the total number of consumers for Branch1?
+
 What is the number of consumers for the Branch2?
+
 Type 1: Creating single physical table with sub queries.
+
 Type 2: Creating multiple physical tables
+
 "use any one type which you are comfortable"
 
 Problem Scenario 2 
