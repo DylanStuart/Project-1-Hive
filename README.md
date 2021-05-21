@@ -9,7 +9,7 @@ Type 1: Creating single physical table with sub queries.
 
 Type 2: Creating multiple physical tables
 
-"use any one type which you are comfortable"
+
 
 Problem Scenario 2 
 What is the most consumed beverage on Branch1
