@@ -1,32 +1,27 @@
-# Project-1-Hive
+# Project-1 Hive Querying and Analysis
 
-Problem Scenario 1 
-What is the total number of consumers for Branch1?
+## Project Description
 
-What is the number of consumers for the Branch2?
+The purpose of this Hive application is to process coffee shop data
 
-  Type 1: Creating single physical table with sub queries.
+## Technologies Used
 
-  Type 2: Creating multiple physical tables
+* Hive - version 2.3.8
+* Hadoop - version 3.3.0
+* HDFS - version 3.3.0
 
+## Features
 
+* Loaded data into HDFS.
+* Loaded from HDFS into Hive by defining a table schema.
+* Ran HQL queries to filter out data from the tables.
+* Ran HQL queries that combine data from multiple tables with JOIN, UNION, etc.
+* Ran HQL queries with window functions and GROUP BY to further refine the output.
+* Worked with partitions, buckets, and indices to optimize runtime.
+* Added table metaproperties, such as notes and comments.
+* Synthesized the information into an easily-accessible presentation format.
 
-Problem Scenario 2 
-What is the most consumed beverage on Branch1
-What is the least consumed beverage on Branch2
+## Contributors
 
-Problem Scenario 3
-What are the beverages available on Branch10, Branch8, and Branch1?
-what are the comman beverages available in Branch4,Branch7?
+* Dylan Stuart
 
-Problem Scenario 4
-create a partition,index,View for the scenario3.
-
-Problem Scenario 5
-Alter the table properties to add "note","comment"
-
-Problem Scenario 6
-Remove the row 5 from the output of Scenario 1 
-
-Technology to use
-1)Hive and HDFS In UBuntu.
